@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.name {
+    color: orange;
+}
+
+.university-name {
+    color: blue;
+}
+
+section {
+    display: flex;
+}
+
+.welcome-text {
+    width: 50%;
+    margin-left: 10px;
+}
+
+.profile-image {
+    padding: 100px;
+    margin-left: 60px;
+
+}
+
+.hire {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 9px;
+    background-image: linear-gradient(orange, red);
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/topbanner.jpg);
+    background-repeat: no-repeat;
+
+}
